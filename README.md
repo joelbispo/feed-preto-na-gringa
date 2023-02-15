@@ -14,7 +14,7 @@ To run this project, follow the steps below:
 
 1.  Clone the repository to your local machine
 
-    `git clone https://github.com/[your-username]/Preto-na-Gringa-Feed.git` 
+    `git clone https://github.com/joelbispo/feed-preto-na-gringa/.git` 
 
 2.  Install the required dependencies
 
